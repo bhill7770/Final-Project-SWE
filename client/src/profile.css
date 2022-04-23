@@ -1,0 +1,31 @@
+.form-inputs{
+    color: #6c28f3;
+} 
+
+.h3{
+    color: #9966ff;
+    text-align: center; 
+}
+
+.form-input-btn{
+    color: #7436f1;
+    position: center;
+    justify-content: center;
+}
+
+.fields {
+    margin: 50px 0px;
+    align-items: center;
+    text-align: center;
+    color: #7d3cff;
+}
+
+.avatar {
+ vertical-align: middle;
+ width: 80px;
+ height: 80px;
+ border-radius: 50%;
+ border-width: 5px;
+ border-color: gray;
+ border-style: outset;
+}
